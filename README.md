@@ -1,8 +1,11 @@
 # DIO - Trilha Java Básico
 www.dio.me
 
-#### Autores
+#### Autor do Desafio
 - [Gleyson Sampaio](https://github.com/glysns)
+
+#### Desenvolvedora
+- [Raquel Gomes de Melo](https://www.linkedin.com/in/queelgomes/)
 
 ## Sintaxe - Desafio
 
